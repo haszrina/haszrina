@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1>Hi, I'm Haszrina Hasbi! <br/><a href="https://github.com/haszrina"></h1>
 
-<!--
-**haszrina/haszrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Rina, an enthusiastic programmer based in Kuching, Sarawak. I'm dedicated to continuously learning new programming techniques and building innovative software solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduated from Universiti Kuala Lumpur Malaysian Institute of Information Technology with Bachelor of Information Technology (Hons.) in Software Engineering.
+- 💻 Currently participating in the GETSWRP program, where I am developing practical skills and seeking entry-level opportunities in the tech industry.
+- 🌱 I’m currently learning JavaScript.
+- 📫 How to reach me: haszrinahasbi@gmail.com
+  
+## 👨‍💻 Software Development
+
+Here are some of the projects I've worked on:
+
+### [ZNS Services App](https://github.com/haszrina/zns)
+- **Description:** The ZNS Service app is a mobile application developed with Android Studio to help customers book contractors' services.
+- **Technologies Used:** Java, JavaScript, CSS.
+- **Features:**  Service Listings and Categories, Provider Profiles, Location-based Features.
+
+### [Product Landing Page](https://github.com/haszrina/fcc-prodlandpg-cert4-rwd)
+- **Description:** The Product Landing Page project involves creating a responsive web page to highlight a product or service with sections like a description, features, and CTA. It uses HTML for structure and CSS for styling, ensuring mobile-first design and adaptability across devices. The goal is to build a user-friendly, accessible page with seamless navigation.
+- **Technologies Used:** HTML, CSS, JavaScript, Responsive Design Principles.
+- **Features:** Responsive Layout, Product Description Section, Images and Media.
+
+## Skills
+
+Here are some of the skills I possess:
+
+- **Languages:** HTML, CSS, JavaScript, Java, PHP, Dart.
+- **Frameworks/Libraries:** React, Laravel, Flutter.
+- **Tools:**  Git, GitHub, Android Studio, VS Code.
