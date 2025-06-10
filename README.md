@@ -12,7 +12,7 @@ Hi there! I'm Rina, an enthusiastic programmer based in Kuching, Sarawak. I'm de
 ## 👨‍💻 Software Development
 
 Here are some of the projects I've worked on:
-### [Hygge Habit Tracker App]
+### Hygge Habit Tracker App
 - **Description:** Hygge Habit Tracker App is a digital tool designed to support the consistent development of positive habits through structured tracking and progress monitoring.
 - **Technologies Used:** Dart, Firebase.
 - **Features:** View Statistics, Habit Tracking, Motivational Quotes.
